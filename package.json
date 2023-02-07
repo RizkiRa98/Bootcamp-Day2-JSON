@@ -8,8 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhamad Rizki Ramadhan",
-  "license": "ISC",
-  "dependencies": {
-    "validator": "^13.9.0"
-  }
+  "license": "ISC"
 }
