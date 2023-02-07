@@ -1,0 +1,15 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contacts.js",
+  "scripts": {
+    "start": "node contacts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhamad Rizki Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
