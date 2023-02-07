@@ -4,7 +4,7 @@
   "description": "",
   "main": "contacts.js",
   "scripts": {
-    "start": "node contacts.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhamad Rizki Ramadhan",
